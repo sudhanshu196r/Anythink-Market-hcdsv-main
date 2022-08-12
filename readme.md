@@ -14,4 +14,4 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ##
 Before running docker-compose up command, docker should be installed completely.
-then we have to run the command from main folder of the projedct.
+Then we have to run the docker-compose up command from main folder of the projedct.
